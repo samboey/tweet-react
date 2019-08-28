@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.5.5"
   }
 }
